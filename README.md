@@ -16,7 +16,7 @@
 <a href="https://twitter.com/goutham1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goutham1602" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" height="30" width="40" /></a>
 <a href="https://instagram.com/goutham_1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goutham_1602" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/AsQAE7vq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/AsQAE7vq" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/https://discord.gg/AsQAE7vq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/AsQAE7vq" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
